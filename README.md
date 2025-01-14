@@ -30,7 +30,7 @@ Foi usado o social-auth-app-django para fazer a conexão de qualquer rede social
 ## Implantação em produção
 
 # Como executar o projeto
-Criar um app no developers.facebook, e no settings colocar a configuração
+Criar um app no developers.facebook, e no settings colocar a key/secret
 - SOCIAL_AUTH_FACEBOOK_KEY = '*'
 - SOCIAL_AUTH_FACEBOOK_SECRET = '*'
 
